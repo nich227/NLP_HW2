@@ -27,6 +27,7 @@ Regression on model performance.
 1. Unzip the aclImdb_v1.tar.gz file.
 
 2. Install dependencies:
+
     _Linux or macOS_
     ```bash
     pip3 install -r requirements.txt
