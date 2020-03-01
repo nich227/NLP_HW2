@@ -24,7 +24,7 @@ Regression on model performance.
 
 ## Instructions
 
-1. Unzip the acllmdb_v1.tar.gz file.
+1. Unzip the aclImdb_v1.tar.gz file.
 2. To run, type in the command line interpreter:
 
     _Linux or macOS_
