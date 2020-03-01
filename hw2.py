@@ -186,4 +186,4 @@ print('F1 score: ', f1_score(y_test, predictions))
 
 # End of program
 print('-----\n', 'HW2 took', round(time.time() -
-                                    start_time, 4), 'seconds to complete.')
+                                   start_time, 4), 'seconds to complete.')
