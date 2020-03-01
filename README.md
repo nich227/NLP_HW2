@@ -43,4 +43,4 @@ Regression on model performance.
     - ```stop-words ∈ {0, 1}```
     - ```regularization ∈ {no, l1, l2}```
 
-NOTE: Python version >=3.6.1 is recommended.
+*NOTE*: Python version >=3.6.1 is recommended.
