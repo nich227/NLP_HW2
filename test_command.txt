@@ -1,0 +1,1 @@
+python hw2.py aclImdb/train aclImdb/test bow nbayes 0 no
