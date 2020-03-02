@@ -147,6 +147,7 @@ if represent == 'bow':
 
 # Initialize TfidfVectorizer
 if represent == 'tfidf':
+    # Stop words
     if stop_wd == 0:
         vec = TfidfVectorizer()
     if stop_wd == 1:
